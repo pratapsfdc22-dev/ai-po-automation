@@ -38,3 +38,16 @@ This project demonstrates an end-to-end automation pipeline that transforms **ha
 ---
 
 ## 📂 Repository Structure
+
+
+---
+
+## 🧠 Future Enhancements
+- Add **voice note processing** (from meetings)  
+- Integrate **Confluence RAG assistant**  
+- Add **predictive sprint planning**
+
+---
+
+## 🪪 License
+MIT License — free to use, fork, and adapt.
